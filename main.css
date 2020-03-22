@@ -1,0 +1,38 @@
+body{
+    background-color: #ccff00;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+section{
+    background-color:white;
+    color: black;
+    border-radius: 4px;
+    box-shadow: 4px 4px 1px black;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+}
+
+input{
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: #ccc;
+    width: 80px;
+}
+
+button{
+    display: flex; 
+    margin: auto;
+    border-radius: 4px;
+    background-color: #ccc;
+    border: 1px solid black;
+    outline: inherit;
+    margin-bottom: 10px;
+}
+
+#resultado{
+    font-size: 30px;
+
+}
